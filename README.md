@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DibbyoSaha
+- 👋 Hi, I’m @DibbyoSaha. I'm a third-year CS student @ TMU, a former SWE intern at TD
 - 👀 I’m interested in learning more and working with Machine Learning, Artificial Intelligence, and Software Development
 - 🌱 I’m currently learning Node.js and React mostly from YouTube and Stack Overflow and doing the regular Leetcode jam sessions with Java
 - 💞️ I’m looking to collaborate on the back end of interesting software development projects
